@@ -2375,7 +2375,7 @@ function filterQuestions() {
 	</tr>
 	<tr>
 		<td>Just get plastic surgery.</td>
-		<td></td>
+		<td>GOOD - UPBEAT</td>
 	</tr>
 	<tr>
 		<td>I'll take responsibility.</td>
